@@ -6,7 +6,7 @@
   --card: #111827;
   --text: #e5e7eb;
   --muted: #9ca3af;
-  --accent: #9e06b3;
+  --accent: #8a069c;
 }
 
 * {
@@ -257,9 +257,4 @@ textarea {
 }
 
 
-@media (max-width: 768px) {
-  .hero {
-    grid-template-columns: 1fr;
-    text-align: center;
-  }
-}
+
